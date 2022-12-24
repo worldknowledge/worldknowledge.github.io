@@ -1699,10 +1699,10 @@ footer .logo {
   text-decoration: none;
 }
 footer .logo img {
-  height: 1.7rem;
+  height: 3rem;
 }
 footer .logo span {
-  margin-left: 1rem;
+  margin-left: 0.6rem;
   font-weight: 600;
   font-size: 1.45rem;
   color: var(--text-color-01);
@@ -1756,7 +1756,7 @@ nav .left a {
 }
 
 nav .left img {
-  height: 2.5rem;
+  height: 4rem;
 }
 
 nav .left span {

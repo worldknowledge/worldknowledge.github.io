@@ -5,7 +5,7 @@ export class FooterHtmlComponent extends BaseStaticHtmlComponent {
     return /* html */ `
       <footer>
         <a class="logo" href='/'>
-          <img src='/assets/logo.png' alt='logo' />
+          <img src='/logo.png' alt='logo' />
           <span>World Knowledge</span>
         </a>
         <div class="links">
